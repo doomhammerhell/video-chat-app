@@ -1,0 +1,15 @@
+{
+  "name": "video-app",
+  "version": "1.0.0",
+  "description": "Video App",
+  "main": "app.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Mayckon Giovani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
